@@ -1,5 +1,7 @@
 # vuex-todomanager
 
+练习vuex的todomanager demo
+
 ## Project setup
 ```
 npm install
